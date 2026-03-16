@@ -1,1 +1,2 @@
-# -Scalp-Diseases-and-Hair-Fall-Stage-Classification
+Run: pip install -r requirements.txt
+python app.py
